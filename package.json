@@ -1,0 +1,14 @@
+{
+  "name": "@jmbenson/npm-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jennifer",
+  "license": "ISC", 
+  "description": "npm tutorial",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
