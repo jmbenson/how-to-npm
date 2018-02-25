@@ -1,14 +1,15 @@
 {
   "name": "@jmbenson/npm-tutorial",
-  "version": "1.0.0",
+  "version": "1.0.354",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
   "author": "Jennifer",
-  "license": "ISC", 
-  "description": "npm tutorial",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmbenson/how-to-npm.git"
+  },
+  "description": "npm tutorial"
 }
